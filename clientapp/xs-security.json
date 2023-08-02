@@ -1,0 +1,7 @@
+{
+  "xsappname": "xsappforclientapp",
+  "tenant-mode": "dedicated",
+  "authorities": [
+    "$XSAPPNAME(application,xsappforproviderapp).scopeforproviderapp"
+  ]
+}
